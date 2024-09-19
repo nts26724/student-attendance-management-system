@@ -1,1 +1,1 @@
-# student-attendance-management-system
+# STUDENT-ATTENDANCE-MANAGEMENT-SYSTEM
